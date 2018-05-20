@@ -1,6 +1,6 @@
 # Furnish-My-Room
 
-How to run?
+## How to run?
 
 Open furnish.hs in Hugs
 
